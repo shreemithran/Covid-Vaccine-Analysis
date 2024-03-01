@@ -1,0 +1,36 @@
+---
+title: "HW 01"
+author: "INSERT YOUR NAME HERE"
+format:
+  html:
+    embed-resources: true
+toc: true
+jupyter: python3
+---
+
+## Import libraries
+
+```{python}
+#| label: label-me-1
+```
+
+## 1 - Python basics
+
+### Variables and Types
+
+```{python}
+#| label: label-me-2
+
+```
+
+### Control Stuctures
+
+## 2 - NumPy Introduction
+
+```{python}
+#| label: label-me-3
+
+```
+
+## 3 - Pandas Introduction
+
